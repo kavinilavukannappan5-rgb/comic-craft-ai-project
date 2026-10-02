@@ -1,0 +1,6 @@
+{
+  "name": "ComicCraft - Comic Story Creator using Gemini Models",
+  "description": "AI-powered web application that generates personalized 5-panel comic book stories and illustrations using Google Gemini models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
